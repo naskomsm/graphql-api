@@ -1,10 +1,11 @@
 # GraphQL API
 
-## GraphQL
+## Technologies used
 
-## TypeGraphQL
-
-## TypeORM
+- GraphQL
+- TypeGraphQL
+- TypeORM
+- SQLlite
 
 **How to use:**
 
