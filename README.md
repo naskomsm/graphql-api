@@ -6,6 +6,7 @@
 - TypeGraphQL
 - TypeORM
 - SQLlite
+- Apollo server
 
 **How to use:**
 
